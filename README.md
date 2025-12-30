@@ -5,6 +5,9 @@ Built using the **Web Speech API**, with **multi-language support**, **voice fee
 
 > ⚠️ This project is a **frontend demonstration** and should **not** be used as a real security system.
 
+<img width="1039" height="496" alt="image" src="https://github.com/user-attachments/assets/87d101cb-2c66-4018-8e03-e413a24d3c9c" />
+
+
 ---
 
 ## ✨ Features
