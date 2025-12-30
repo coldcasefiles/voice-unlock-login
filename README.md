@@ -149,7 +149,6 @@ Feel free to use, modify, and learn from this project.
 ## 📊 Live YouTube Statistics
 
 ![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCjm1vLu6YLoLeXpt8aT6BWg?style=social)
-
 ![YouTube Views](https://img.shields.io/youtube/channel/views/UCjm1vLu6YLoLeXpt8aT6BWg?style=social)
 
 👉 **Subscribe here:** https://www.youtube.com/@einzigartige_/
@@ -158,7 +157,7 @@ Feel free to use, modify, and learn from this project.
 
 ## 👤 Author
 
-**Einzigartige**  
+**Einzigartige - Web & App Development Company**  
 Website: http://einzigartige.in/
 
 ---
